@@ -5,6 +5,8 @@
 # 
 # Mainly used for private/personal domains that require FW ACLs,
 # that require updating of IP address
+# github: https://github.com/someguyXjared/dnsmonitor
+# Created: 7/8/2021
 
 
 USERNAME="youremail@gmail.com"
